@@ -1,0 +1,9 @@
+ID: Requirements
+
+UR1: The app must identify the user using their applice ID and device ID
+UR2: The user must be able to add and save multiple digital passes.
+UR3:The app must display only valid passes by default.
+UR4: The user must be able to scan a barcode or QR code from a pass.
+UR5:The app must send event notifications linked to saved passes.
+UR6: The user must be able to read and clear notifications.
+UR7:Each user must be allowed to store many passes and receive many alerts.
